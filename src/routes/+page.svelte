@@ -1,5 +1,5 @@
 <script>
-	import PokemanCard from '../lib/components/PokemanCard.svelte';
+	import PokemanCard from './PokemanCard.svelte';
 
 	/** @type {import('./$types').PageData} */
 	export let data;
